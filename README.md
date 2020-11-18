@@ -12,4 +12,4 @@ getFactorial() ~ n!
 * ...
 ### Connect me via
 [FB] (https://www.facebook.com/phomai345)
-### copyright symbol ©2020 by Huy
+### ©2020 by Huy | FPT Univercity

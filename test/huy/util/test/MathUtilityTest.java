@@ -41,4 +41,5 @@ public class MathUtilityTest {
     public void getFactorial_ThrowsException_IfInvalidArgument(){
         MathUtility.getFactorial(-5);
     }
+    //tui muốn thấy màu xanh trên server, thấy tích xanh luôn
 }

@@ -27,7 +27,7 @@ public class NewClass {
         //case 4:
         //tao kì vọng nhận về ngoại lệ IllegalArgumentException
         //Nếu tao gọi -5!
-        MathUtility.getFactorial(-5);
+//        MathUtility.getFactorial(-5);
         //Thấy ngoại lệ lại mừng vì hàm chạy như thiết kế
         
         
